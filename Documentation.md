@@ -62,9 +62,10 @@ All the above functions can & should be utilized on Stand-Creator abilities.
 DOCUMENTATION OF ABILITY CREATING :
 
 Create("Hello!", function() --/ Inside the " " we have named this ability Hello!, so if we were to type Hello! in-game the command would run (1), You can rename the Hello! to anything you want.
-    Stand.Action = "Mimic"
-end) 
+
+end) --/ Always remember this on any ability you created, 
 ```
+
 ```
 STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
