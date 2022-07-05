@@ -12,7 +12,6 @@
     Mimic! / mimics the owner's movements [Block, punch, etc]
 ]]--
 
-``
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "KaitlynFrench52", --/ Stand owner username.
@@ -32,7 +31,7 @@ getgenv().Settings = {
         ANTIBAN = true, --/ If set to true the stand will be automatically kicked from the server, in-case da hood staff is detected on the same server.
     }
 }
-``
+
 
 
 ```
@@ -59,6 +58,13 @@ DOCUMENTATION OF THE FUNCTIONS :
 ```
 All the above functions can & should be utilized on Stand-Creator abilities.
 
+```
+DOCUMENTATION OF ABILITY CREATING :
+
+Create("Hello!", function() --/ Inside the "" we have named this command Hello!, so if we were to type Hello! in-game the command would run (1), You can rename the Hello! to anything you want.
+    Stand.Action = "Mimic"
+end) 
+```
 ```
 STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
