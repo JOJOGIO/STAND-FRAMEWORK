@@ -90,4 +90,4 @@ HOW TO USE THE STAND CREATOR :
 https://www.youtube.com/watch?v=FA7TLi7KxhE
 https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
-Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect.
+Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work.
