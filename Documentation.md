@@ -81,4 +81,9 @@ https://developer.roblox.com/en-us/learn-roblox/coding-scripts
 https://scriptinghelpers.org/
 https://developer.roblox.com/en-us/onboarding
 https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
+
+MULTI-ROBLOX :
+https://wearedevs.net/d/Multiple%20Games
+https://github.com/ic3w0lf22/Roblox-Account-Manager
 ```
+Each of the links provided will provide you some information
