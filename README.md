@@ -1,3 +1,18 @@
+--[[ For any template shares, please make sure to include a list of the abilities inside the template as follows :
+    Summon stand = Summon!, /e s
+    Desummon stand = Vanish!, /e v
+    Rejoin! / Rejoins
+    Leave! / Leaves
+    Barrage! / barrages infront of you
+    Aura! / goes below u and begins hitting in a circle
+    Bring user / Brings person
+    Kill user / Loopkills the person
+    Stab! / kills nearby players
+    Save! / Saves the owner
+    Mimic! / mimics the owner's movements [Block, punch, etc]
+]]--
+
+--/ Beginner links are provided in-case your unsure what you're doing. / Please refer to template sharing & ability sharing in https://discord.com/invite/jojoW for already made templates and abilities.
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "KaitlynFrench52", --/ Stand owner username.
@@ -98,12 +113,13 @@ end)
 
 ]]-- IGNORE THIS LINE
 
+```
 --/ STAND NAME & ABILITY IDEAS : \--
 -- https://jojowiki.com/List_of_Stands
 
-``STAND OUTFIT IDEAS :```
-https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
-```
+--/ STAND OUTFIT IDEAS : \--
+-- https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
+
 --/ JOJO SOUND EFFECTS : \--
 -- https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
 -- https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
@@ -113,4 +129,4 @@ https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection
 -- https://developer.roblox.com/en-us/learn-roblox/coding-scripts
 -- https://scriptinghelpers.org/
 -- https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
---/---------------------------------------------------------------------------------------------\--
+```
