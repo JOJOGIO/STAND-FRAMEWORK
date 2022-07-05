@@ -120,13 +120,14 @@ https://jojowiki.com/List_of_Stands
 STAND OUTFIT IDEAS :
 https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
 
---/ JOJO SOUND EFFECTS : \--
--- https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
--- https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
+JOJO SOUND EFFECTS :
+https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
+https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
 
---/ USEFUL SOURCES FOR BEGINNERS \--
--- https://developer.roblox.com/en-us/articles/Understanding-CFrame
--- https://developer.roblox.com/en-us/learn-roblox/coding-scripts
--- https://scriptinghelpers.org/
--- https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
+USEFUL SOURCES FOR BEGINNERS :
+https://developer.roblox.com/en-us/articles/Understanding-CFrame
+https://developer.roblox.com/en-us/learn-roblox/coding-scripts
+https://scriptinghelpers.org/
+https://developer.roblox.com/en-us/onboarding
+https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
 ```
