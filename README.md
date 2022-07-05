@@ -101,9 +101,9 @@ end)
 --/ STAND NAME & ABILITY IDEAS : \--
 -- https://jojowiki.com/List_of_Stands
 
---/ STAND OUTFIT IDEAS : \--
--- https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
-
+``STAND OUTFIT IDEAS :```
+https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
+```
 --/ JOJO SOUND EFFECTS : \--
 -- https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
 -- https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
