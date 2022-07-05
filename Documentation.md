@@ -12,7 +12,7 @@
     Mimic! / mimics the owner's movements [Block, punch, etc]
 ]]--
 
---/ Beginner links are provided in-case your unsure what you're doing. / Please refer to template sharing & ability sharing in https://discord.com/invite/jojoW for already made templates and abilities.
+```
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "KaitlynFrench52", --/ Stand owner username.
@@ -32,13 +32,8 @@ getgenv().Settings = {
         ANTIBAN = true, --/ If set to true the stand will be automatically kicked from the server, in-case da hood staff is detected on the same server.
     }
 }
+```
 
-```
-Developer notes : 
-- I will not provide template abilities for this current release and probably not for foreseeable future, so it is a MUST that you somewhat read this tutorial / guide regarding this stand creator.
-- You are directly responsible and held accountable for any clips/bans/etc.. You are advised to not use this script on accounts that you care about.
-- If you have any questions or concerns regarding this script, please contact me (https://discord.com/invite/jojoW) at #support.
-```
 
 ```
 DOCUMENTATION OF THE FUNCTIONS :
