@@ -33,12 +33,12 @@ getgenv().Settings = {
     }
 }
 
---[[
+```
 Developer notes : 
 - I will not provide template abilities for this current release and probably not for foreseeable future, so it is a MUST that you somewhat read this tutorial / guide regarding this stand creator.
 - You are directly responsible and held accountable for any clips/bans/etc.. You are advised to not use this script on accounts that you care about.
 - If you have any questions or concerns regarding this script, please contact me (https://discord.com/invite/jojoW) at #support.
-]]--
+```
 
 ```
 DOCUMENTATION OF THE FUNCTIONS :
