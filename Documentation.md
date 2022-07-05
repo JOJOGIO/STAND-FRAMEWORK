@@ -85,5 +85,9 @@ https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
 MULTI-ROBLOX :
 https://wearedevs.net/d/Multiple%20Games
 https://github.com/ic3w0lf22/Roblox-Account-Manager
+
+HOW TO USE THE STAND CREATOR :
+https://www.youtube.com/watch?v=FA7TLi7KxhE
+https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
-Each of the links provided will provide you some information
+Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect.
