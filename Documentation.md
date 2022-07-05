@@ -61,7 +61,7 @@ All the above functions can & should be utilized on Stand-Creator abilities.
 ```
 DOCUMENTATION OF ABILITY CREATING :
 
-Create("Hello!", function() --/ Inside the "" we have named this command Hello!, so if we were to type Hello! in-game the command would run (1), You can rename the Hello! to anything you want.
+Create("Hello!", function() --/ Inside the " " we have named this ability Hello!, so if we were to type Hello! in-game the command would run (1), You can rename the Hello! to anything you want.
     Stand.Action = "Mimic"
 end) 
 ```
