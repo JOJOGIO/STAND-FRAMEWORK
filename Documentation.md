@@ -12,7 +12,7 @@
     Mimic! / mimics the owner's movements [Block, punch, etc]
 ]]--
 
-```
+``
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "KaitlynFrench52", --/ Stand owner username.
@@ -32,7 +32,7 @@ getgenv().Settings = {
         ANTIBAN = true, --/ If set to true the stand will be automatically kicked from the server, in-case da hood staff is detected on the same server.
     }
 }
-```
+``
 
 
 ```
