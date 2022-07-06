@@ -52,9 +52,8 @@ Create("Hello!", function() --/ Inside the " " we have named this ability Hello!
     Chat("Hello!") --/ We will make the STAND say Hello!, Utilizing function (13).
 end) --/ Always remember end) on any ability you created.
 
-local CrewId = 2 --/ You can use variables too! This is the crew ID that the stand will join to.
 Create("Crew!", function() --/ Inside the " " we have named this ability Crew!, So if we were to type Crew! in-game the command would run utilizing function (1)
-    Crew(true,CrewId) --/ It's advised & You should do : Crew(true,2)
+    Crew(true,2) --/ 2 Is the crew ID that the stand will join to utilizing function (15), You need to be in the roblox group of it in-order to join crew.
 end) --/ Still remember end) on any ability you created.
 
 ```
