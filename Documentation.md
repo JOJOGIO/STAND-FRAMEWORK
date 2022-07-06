@@ -58,8 +58,11 @@ end) --/ Still remember end) on any ability you created.
 
 CreateAction("Summoned", function() --/ Inside the " " we have named this action Summoned utilizing function (2), The action wont begin by itself you need to create an ability seperately to use it.
     STAND.Character.HumanoidRootPart.CFrame = OWNER.Character.HumanoidRootPart.CFrame*CFrame.new(1,1.85,2.5) --/ This will control the stand position while the action is running.
-end)    
+end) --/ Still remember end)
 
+Create("Summon!", function() --/ Inside the " " we have named this ability Summon!, So if we were to type Summon! in-game the command would run utilizing function (1)
+    Stand.Action = "Summoned"
+end) --/ Still remember end) on any ability you created.
 ```
 The above documentation will explain simple ability creating & should be read throughout.
 ```
