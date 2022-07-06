@@ -61,7 +61,7 @@ CreateAction("Summoned", function() --/ Inside the " " we have named this action
 end) --/ Still remember end)
 
 Create("Summon!", function() --/ Inside the " " we have named this ability Summon!, So if we were to type Summon! in-game the command would run utilizing function (1)
-    Stand.Action = "Summoned"
+    Stand.Action = "Summoned" --/ We can change the action to the one that we previously created & named Summoned.
 end) --/ Still remember end) on any ability you created.
 ```
 The above documentation will explain simple ability creating & should be read throughout.
