@@ -62,8 +62,8 @@ All the above functions can & should be utilized on Stand-Creator abilities.
 DOCUMENTATION OF ABILITY CREATING :
 
 Create("Hello!", function() --/ Inside the " " we have named this ability Hello!, so if we were to type Hello! in-game the command would run (1), You can rename the Hello! to anything you want.
-
-end) --/ Always remember this on any ability you created, 
+Chat("Hello!") --/ We will make the STAND say Hello!, Utilizing the function (13).
+end) --/ Always remember end) on any ability you created, 
 ```
   
 ```
