@@ -51,6 +51,11 @@ Create("Hello!", function() --/ Inside the " " we have named this ability Hello!
     Chat("Hello!") --/ We will make the STAND say Hello!, Utilizing function (13).
 end) --/ Always remember end) on any ability you created.
 
+--/ You can add variables too!
+local CrewId = 2 --/ This is the crew ID that the stand will join to.
+Create("Crew!", function() --/ Inside the " " we have named this ability Crew!, So if we were to type Crew! in-game the command would run utilizing function (1)
+    Crew(true,CrewId)
+end) --/ Still remember end) on any ability you created.
 
 ```
 All the above abilities explain simple ability creating & should be read throughout.
