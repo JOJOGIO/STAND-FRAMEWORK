@@ -65,7 +65,7 @@ Create("Hello!", function() --/ Inside the " " we have named this ability Hello!
 
 end) --/ Always remember this on any ability you created, 
 ```
- .
+  
 ```
 STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
