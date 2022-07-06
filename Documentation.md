@@ -1,17 +1,3 @@
---[[ For any template shares, please make sure to include a list of the abilities inside the template as follows :
-    Summon stand = Summon!, /e s
-    Desummon stand = Vanish!, /e v
-    Rejoin! / Rejoins
-    Leave! / Leaves
-    Barrage! / barrages infront of you
-    Aura! / goes below u and begins hitting in a circle
-    Bring user / Brings person
-    Kill user / Loopkills the person
-    Stab! / kills nearby players
-    Save! / Saves the owner
-    Mimic! / mimics the owner's movements [Block, punch, etc]
-]]--
-
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "KaitlynFrench52", --/ Stand owner username.
