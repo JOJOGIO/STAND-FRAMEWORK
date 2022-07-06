@@ -43,7 +43,7 @@ DOCUMENTATION OF THE FUNCTIONS :
 18. Equip(Tool) --/ This will equip the specific tool eg.. "Combat", "Wallet", [Knife], [Bat], [StopSign], [Shovel], [Pencil], [Nunchucks], [SledgeHammer], [Grenade], [Flashbang] --/ In-case your item is not on this list use darkdex.
 19. Unequip() --/ This will unequip any currently equipped tools.
 ```
-All the above functions can & should be utilized on Stand-Creator abilities.
+・All the above functions can & should be utilized on Stand-Creator abilities.
 
 ```
 DOCUMENTATION OF ABILITY CREATING :
@@ -64,7 +64,7 @@ Create("Summon!", function() --/ Inside the " " we have named this ability Summo
     Stand.Action = "Summoned" --/ We can change the action to the one that we previously created & named Summoned.
 end) --/ Still remember end)
 ```
-All of the above examples will explain simple ability creating & should be read throughout.
+・All of the above examples will explain simple ability creating & should be read throughout.
 ```
 STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
@@ -87,8 +87,11 @@ HOW TO USE MULTIPLE ROBLOX INSTANCES :
 https://wearedevs.net/d/Multiple%20Games
 https://github.com/ic3w0lf22/Roblox-Account-Manager
 
-HOW TO USE THE STAND CREATOR :
+・HOW TO USE THE STAND CREATOR :
 https://www.youtube.com/watch?v=FA7TLi7KxhE
 https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
-Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
+・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
+
+``` FAQ :
+・
