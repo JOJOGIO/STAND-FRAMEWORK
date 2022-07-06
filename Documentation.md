@@ -57,7 +57,7 @@ Create("Crew!", function() --/ Inside the " " we have named this ability Crew!, 
 end) --/ Still remember end) on any ability you created.
 
 ```
-All the above abilities explain simple ability creating & should be read throughout.
+The above documentation will explain simple ability creating & should be read throughout.
 ```
 STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
