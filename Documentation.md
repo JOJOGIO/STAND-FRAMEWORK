@@ -64,7 +64,7 @@ Create("Summon!", function() --/ Inside the " " we have named this ability Summo
     Stand.Action = "Summoned" --/ We can change the action to the one that we previously created & named Summoned.
 end) --/ Still remember end)
 ```
-The above documentation will explain simple ability creating & should be read throughout.
+All of the above commands will explain simple ability creating & should be read throughout.
 ```
 STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
