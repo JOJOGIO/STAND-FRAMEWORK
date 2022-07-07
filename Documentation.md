@@ -67,25 +67,25 @@ end) --/ Still remember end)
 ・All of the above examples will explain simple ability creating & should be read throughout.
 ```
 STAND NAME & ABILITY IDEAS :
-https://jojowiki.com/List_of_Stands
+・https://jojowiki.com/List_of_Stands
 
 STAND OUTFIT IDEAS :
-https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
+・https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
 
 JOJO SOUND EFFECTS :
-https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
-https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
+・https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
+・https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
 
 USEFUL SOURCES FOR BEGINNERS :
-https://developer.roblox.com/en-us/articles/Understanding-CFrame
-https://developer.roblox.com/en-us/learn-roblox/coding-scripts
-https://scriptinghelpers.org/
-https://developer.roblox.com/en-us/onboarding
-https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
+・https://developer.roblox.com/en-us/articles/Understanding-CFrame
+・https://developer.roblox.com/en-us/learn-roblox/coding-scripts
+・https://scriptinghelpers.org/
+・https://developer.roblox.com/en-us/onboarding
+・https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
 
 HOW TO USE MULTIPLE ROBLOX INSTANCES :
-https://wearedevs.net/d/Multiple%20Games
-https://github.com/ic3w0lf22/Roblox-Account-Manager
+・https://wearedevs.net/d/Multiple%20Games
+・https://github.com/ic3w0lf22/Roblox-Account-Manager
 
 HOW TO USE THE STAND CREATOR :
 ・https://www.youtube.com/watch?v=FA7TLi7KxhE
