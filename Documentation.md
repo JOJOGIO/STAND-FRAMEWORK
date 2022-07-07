@@ -96,4 +96,7 @@ https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
 FAQ :
 The stand script isn't executing or doing anything?
-Make sure to execute on the correct account & This only occurs if you have incorrect usernames or incorrect username order.
+・Make sure to execute on the correct account & This only occurs if you have incorrect usernames or incorrect username order.
+
+The stand is damaging you?
+・Make sure to be in the same crew as your stand.
