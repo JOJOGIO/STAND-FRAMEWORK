@@ -91,4 +91,6 @@ The stand stand is getting kicked when executing?
 Reach bugging or other things bugging?
 ・Make to use any of the following exploits: KRNL, Synapse X, Fluxus.
 ```
+・If you have any other questions use an support ticket at https://discord.com/invite/jojoW
+
 ・It's truly been an incredible journey creating this project, I remember the first day when i was scared of even uploading this project, I've learned alot.. If you're curious about something or genuinely want something, You shouldn't be scared of it, Appreciate the opportunity and the chance of taking action on it, Approach & explore it because you'll never know where it leads you to.
