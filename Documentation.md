@@ -63,7 +63,8 @@ local Target = Stand.Target --/ We define our target & You should do this for ea
 end) --/ Same as everything before, You need to remember end).
 ```
 ・All of the above examples will explain simple ability creating & should be read throughout.
-・Each ability should be placed at the bottom of stand creator script.
+
+・Each ability should be placed at the bottom of stand creator script & It's heavily advised to follow the format provided with the script.
 ```
 STAND NAME & ABILITY IDEAS :
 ・https://jojowiki.com/List_of_Stands
