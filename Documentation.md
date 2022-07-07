@@ -1,4 +1,4 @@
-・Welcome to the new guide on using stand creator!
+・Welcome to guide for using stand creator!
 
 ```
 DOCUMENTATION OF THE FUNCTIONS :
