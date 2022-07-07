@@ -21,7 +21,7 @@ getgenv().Settings = {
 
 
 ```
-DOCUMENTATION OF THE FUNCTIONS :
+・DOCUMENTATION OF THE FUNCTIONS :
 
 1. Create('COMMANDNAMEHERE', function() --/ This will create an chat command / replace COMMANDNAME inside the brackets with your desired command name.
 2. CreateAction('LOOPNAMEHERE', function() --/ This will create an action this should be placed before (1).
@@ -46,7 +46,7 @@ DOCUMENTATION OF THE FUNCTIONS :
 ・All the above functions can & should be utilized on Stand-Creator abilities.
 
 ```
-DOCUMENTATION OF ABILITY CREATING :
+・DOCUMENTATION OF ABILITY CREATING :
 
 Create("Hello!", function() --/ Inside the " " we have named this ability Hello!, So if we were to type Hello! in-game the command would run utilizing function (1), You can rename the Hello! to anything you want.
     Chat("Hello!") --/ We will make the STAND say Hello!, Utilizing function (13).
@@ -66,34 +66,34 @@ end) --/ Still remember end)
 ```
 ・All of the above examples will explain simple ability creating & should be read throughout.
 ```
-STAND NAME & ABILITY IDEAS :
+・STAND NAME & ABILITY IDEAS :
 https://jojowiki.com/List_of_Stands
 
-STAND OUTFIT IDEAS :
+・STAND OUTFIT IDEAS :
 https://www.roblox.com/games/9714571746/JoJos-Bizarre-Collection 
 
-JOJO SOUND EFFECTS :
+・JOJO SOUND EFFECTS :
 https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=jojoaudio&SortAggregation=5&LegendExpanded=true&Category=9
 https://www.roblox.com/develop/library?CatalogContext=2&Subcategory=16&CreatorName=Tsuagon&SortAggregation=5&LegendExpanded=true&Category=9
 
-USEFUL SOURCES FOR BEGINNERS :
+・USEFUL SOURCES FOR BEGINNERS :
 https://developer.roblox.com/en-us/articles/Understanding-CFrame
 https://developer.roblox.com/en-us/learn-roblox/coding-scripts
 https://scriptinghelpers.org/
 https://developer.roblox.com/en-us/onboarding
 https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7
 
-HOW TO USE MULTIPLE ROBLOX INSTANCES :
+・HOW TO USE MULTIPLE ROBLOX INSTANCES :
 https://wearedevs.net/d/Multiple%20Games
 https://github.com/ic3w0lf22/Roblox-Account-Manager
 
 ・HOW TO USE THE STAND CREATOR :
-・https://www.youtube.com/watch?v=FA7TLi7KxhE
-・https://www.youtube.com/watch?v=Pg-jc7XTCSg
+https://www.youtube.com/watch?v=FA7TLi7KxhE
+https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
 ・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
 
 ```
 ・FAQ :
-・The stand script isn't executing or doing anything?
-・Make sure to execute on the correct account & This only occurs if you have incorrect usernames or incorrect username order.
+The stand script isn't executing or doing anything?
+Make sure to execute on the correct account & This only occurs if you have incorrect usernames or incorrect username order.
