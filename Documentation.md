@@ -21,8 +21,8 @@ Stand.Target = "" --/ Target Instance, It will automatically change if you're ut
 7. Stand.Action = "ACTIONNAMEHERE" --/ This will begin the specified action that you've created earlier (Refer to 2), Stand.Action = "" will stop the action.
 8. Play(ID, true) --/ This will begin playing the specified audio ID in the first argument, The second argument true/false, If the second argument is set to false it'll begin looping the audio.
 9. Stop() --/ This will stop any audios from playing.
-10. AnimPlay(ID,SPEED) --/ This will begin playing the specified animation (Only upporting Da Hood Entertainment) Animations, SPEED will control the animation play speed (Default is 1).
-11. AnimStop(ID,SPEED) --/ This will stop playing the specified animation, SPEED will control the stopping speed (Default is 1).
+10. AnimPlay(ID,SPEED) --/ This will begin playing the specified animation (Only supports "Da Hood Entertainment" animations), SPEED will control the animation play- speed (Default is 1).
+11. AnimStop(ID,SPEED) --/ This will stop playing the specified animation, SPEED will control the stop-speed (Default is 1).
 12. Chat("TEXTGOESHERE") --/ Will chat the specified text in the first argument (stand cry / eg.. following you master).
 13. Buy.Item() --/ Will buy the specified melee (make sure you have enough cash). eg.. Buy.Knife(), Buy.Bat(), Buy.StopSign(), Buy.Shovel(), Buy.Pencil(), Buy.Nunchucks(), Buy.SledgeHammer(), Buy.Grenade(), Buy.Flashbang(), Buy.Boxing(), Buy.Default().
 14. Hit(true) --/ If the first argument is set to true it'll do a charge attack + If the first argument is set to false it'll do a quick punch.
