@@ -9,7 +9,7 @@ OWNER --/ Owner instance, you can do.. Owner.Character
 STAND --/ Stand instance, you can do.. Stand.Character
 
 Stand.Action = "" --/ Action instance, You can the action to anything that you've created.
-Stand.Target = "" --/ Target Instance,  It will automatically change if you're utilizing function (4)
+Stand.Target = "" --/ Target Instance, It will automatically change if you're utilizing function (4)
 
 1. Create('COMMANDNAMEHERE', function() --/ This will create an chat command / replace COMMANDNAME inside the brackets with your desired command name.
 2. CreateAction('LOOPNAMEHERE', function() --/ This will create an action this should be placed before (1).
@@ -50,6 +50,17 @@ end) --/ Still remember end)
 Create("Summon!", function() --/ Inside the " " we have named this ability Summon!, So if we were to type Summon! in-game the command would run utilizing function (1)
     Stand.Action = "Summoned" --/ We can change the action to the one that we previously created & named Summoned.
 end) --/ Still remember end)
+
+Create("Yare Yare Da..", function() --/ Inside the " " we have named this ability Yare Yare Da.., So if we were to type Yare Yare Da.. in-game the command would run utilizing function (1)
+Play(8404024444,true) --/ This is how we play different music id's utilizing function (8)
+end) --/ Still remember end)
+
+CreateTargetAbility("Print", function() --/ Inside the " " we have named this ability Print, So if we were to type Print and portion of someone's display or username in-game the command would run utilizing function (4)
+local Target = Stand.Target --/ We define our target & You should do this for each CreateTargetAbility.
+    if Target then --/ We want to check if the target exists & If target exists we run the command.
+        print(Target) --/ We print their name to the username to the console.
+    end --/ We have an extra end to end the target check.
+end) --/ Same as everything before, You need to remember end).
 ```
 ・All of the above examples will explain simple ability creating & should be read throughout.
 ```
