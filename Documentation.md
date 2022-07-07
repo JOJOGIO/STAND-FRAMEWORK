@@ -1,12 +1,12 @@
-・Welcome to guide for using stand creator!
+・Welcome to guide for using Stand-Creator!
 
-・I heavily advise you to read through the entire guide for the full understanding of the project.
+・It'll take you a bit to understand & to use, I heavily advise you to read through the entire guide for the full understanding of the project.
 
 ```
 DOCUMENTATION OF THE FUNCTIONS :
 
-OWNER --/ Owner instance, you can do.. Owner.Character
-STAND --/ Stand instance, you can do.. Stand.Character
+OWNER --/ Owner instance, you can do.. OWNER.Character
+STAND --/ Stand instance, you can do.. STAND.Character
 
 Stand.Action = "" --/ Action instance, You can the action to anything that you've created.
 Stand.Target = "" --/ Target Instance, It will automatically change if you're utilizing function (4).
@@ -45,7 +45,7 @@ end) --/ Still remember end) on any ability you created.
 
 CreateAction("Summoned", function() --/ Inside the " " we have named this action Summoned utilizing function (2), The action wont begin by itself you need to create an ability seperately to use it.
     STAND.Character.HumanoidRootPart.CFrame = OWNER.Character.HumanoidRootPart.CFrame*CFrame.new(1,1.85,2.5) --/ This will control the stand position while the action is running.
-end) --/ Still remember end)
+end) --/ Still remember end) on anything you created.
 
 Create("Summon!", function() --/ Inside the " " we have named this ability Summon!, So if we were to type Summon! in-game the command would run utilizing function (1)
     Stand.Action = "Summoned" --/ We can change the action to the one that we previously created & named Summoned.
@@ -110,6 +110,8 @@ The stand stand is getting kicked when executing?
 Reach bugging or other things bugging?
 ・Make to use any of the following exploits: KRNL, Synapse X, Fluxus.
 ```
-・If you have any other questions & concerns use an support ticket at https://discord.com/invite/jojoW
+・If you have any other questions & concerns refer to support ticket at https://discord.com/invite/jojoW
 
 ・It's truly been an incredible journey creating this project, I remember the first day when i was scared of even uploading this project, I've learned alot.. If you're curious about something or genuinely want something, You shouldn't be scared of it, Appreciate the opportunity and the chance of taking action on it, Approach & explore it because you'll never know where it leads you to.
+
+・Updated as : 07/07/2022
