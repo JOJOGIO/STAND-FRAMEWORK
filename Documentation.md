@@ -1,5 +1,5 @@
 
-![the gang](https://user-images.githubusercontent.com/102848138/177808353-b69e62b3-20ee-4c0f-9bc0-4bd815fd9fc5.png)
+![A](https://user-images.githubusercontent.com/102848138/177808558-abf98882-34cc-4fe2-9a32-eff6e248569b.png)
 
 ・Welcome to guide for using Stand-Creator!
 
