@@ -41,7 +41,7 @@ DOCUMENTATION OF THE FUNCTIONS :
 16. DropMoney(Amount) --/ This will drop the amount of money specified.
 17. GetNearest() --/ This will get the nearest enemy player.
 18. Equip(Tool) --/ This will equip the specific tool eg.. "Combat", "Wallet", [Knife], [Bat], [StopSign], [Shovel], [Pencil], [Nunchucks], [SledgeHammer], [Grenade], [Flashbang] --/ In-case your item is not on this list use darkdex.
-19. Unequip() --/ This will unequip any currently equipped tools.
+・19. Unequip() --/ This will unequip any currently equipped tools.
 ```
 ・All the above functions can & should be utilized on Stand-Creator abilities.
 
