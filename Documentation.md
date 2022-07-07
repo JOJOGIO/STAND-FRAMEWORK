@@ -87,11 +87,13 @@ HOW TO USE MULTIPLE ROBLOX INSTANCES :
 https://wearedevs.net/d/Multiple%20Games
 https://github.com/ic3w0lf22/Roblox-Account-Manager
 
-・HOW TO USE THE STAND CREATOR :
+HOW TO USE THE STAND CREATOR :
 https://www.youtube.com/watch?v=FA7TLi7KxhE
 https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
 ・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
 
-``` FAQ :
-・
+```
+FAQ :
+The stand script isn't executing or doing anything?
+・Make sure to execute on the correct account & This only occurs if you have incorrect usernames or incorrect username order.
