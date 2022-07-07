@@ -29,7 +29,7 @@ Stand.Target = "" --/ Target Instance, It will automatically change if you're ut
 15. Crew(true,ID) --/ If the first argument is set true it'll join the crew specified(ID) & If the first argument is set to false it'll leave any current crew.
 16. DropMoney(Amount) --/ This will drop the amount of money specified.
 17. GetNearest() --/ This will get the nearest enemy player.. (local x = GetNearest() & x.Character)
-18. Equip(Tool) --/ This will equip the tool specified : "Combat", "Wallet", [Knife], [Bat], [StopSign], [Shovel], [Pencil], [Nunchucks], [SledgeHammer], [Grenade], [Flashbang]
+18. Equip(Tool) --/ This will equip the tool specified : "Combat", "Wallet", [Knife], [Bat], [StopSign], [Shovel], [Pencil], [Nunchucks], [SledgeHammer], [Grenade], [Flashbang].
 19. Unequip() --/ This will unequip any currently equipped tools.
 ```
 ・All the above functions can & should be utilized on Stand-Creator abilities.
