@@ -1,3 +1,6 @@
+
+![the gang](https://user-images.githubusercontent.com/102848138/177808353-b69e62b3-20ee-4c0f-9bc0-4bd815fd9fc5.png)
+
 ・Welcome to guide for using Stand-Creator!
 
 ・It'll take you a bit to understand & to use, I heavily advise you to read through the entire guide for the full understanding of the project.
