@@ -73,6 +73,7 @@ HOW TO USE THE STAND CREATOR :
 ・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
 ```
 FAQ :
+
 The stand script isn't executing or doing anything?
 ・Make sure to execute on the correct account & This only occurs if you have incorrect usernames or incorrect username order.
 
