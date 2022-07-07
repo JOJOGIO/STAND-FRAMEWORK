@@ -100,3 +100,7 @@ The stand script isn't executing or doing anything?
 
 The stand is damaging you?
 ・Make sure to be in the same crew as your stand.
+
+The stand stand is getting kicked when executing?
+・Make sure to have a good ping under 200.
+```
