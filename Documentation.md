@@ -1,4 +1,4 @@
-
+・
 
 
 
@@ -26,7 +26,6 @@ DOCUMENTATION OF THE FUNCTIONS :
 19. Unequip() --/ This will unequip any currently equipped tools.
 ```
 ・All the above functions can & should be utilized on Stand-Creator abilities.
-
 ```
 DOCUMENTATION OF ABILITY CREATING :
 
@@ -74,7 +73,6 @@ HOW TO USE THE STAND CREATOR :
 ・https://www.youtube.com/watch?v=Pg-jc7XTCSg
 ```
 ・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
-
 ```
 FAQ :
 The stand script isn't executing or doing anything?
