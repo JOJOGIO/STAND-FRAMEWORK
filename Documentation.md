@@ -88,6 +88,9 @@ HOW TO USE MULTIPLE ROBLOX INSTANCES :
 HOW TO USE THE STAND CREATOR :
 ・https://www.youtube.com/watch?v=FA7TLi7KxhE
 ・https://www.youtube.com/watch?v=Pg-jc7XTCSg
+
+VISUAL STUDIO FOR CODING :
+・https://code.visualstudio.com/
 ```
 ・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
 ```
