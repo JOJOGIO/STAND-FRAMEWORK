@@ -1,5 +1,5 @@
 ・Welcome to guide for using stand creator!
-
+・I heavily advise you to read through the entire guide for the full understanding of the project.
 ```
 DOCUMENTATION OF THE FUNCTIONS :
 
