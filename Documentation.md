@@ -1,6 +1,4 @@
-・
-
-
+・Welcome to the new guide on using stand creator!
 
 ```
 DOCUMENTATION OF THE FUNCTIONS :
