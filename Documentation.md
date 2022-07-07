@@ -2,7 +2,6 @@
 
 ・I heavily advise you to read through the entire guide for the full understanding of the project.
 
-・I will begin with detailing the functions that stand creator supports.
 ```
 DOCUMENTATION OF THE FUNCTIONS :
 
