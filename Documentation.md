@@ -5,6 +5,9 @@
 ```
 DOCUMENTATION OF THE FUNCTIONS :
 
+OWNER --/ Owner instance, you can do.. Owner.Character
+STAND --/ Stand instance, you can do.. Stand.Character
+
 1. Create('COMMANDNAMEHERE', function() --/ This will create an chat command / replace COMMANDNAME inside the brackets with your desired command name.
 2. CreateAction('LOOPNAMEHERE', function() --/ This will create an action this should be placed before (1).
 3. CreateKeybind('KEYBINDHERE', function() --/ This will create a keybind command, it'll only work on the stand (Refer to "https://developer.roblox.com/en-us/api-reference/enum/KeyCode") for keybinds.
