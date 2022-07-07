@@ -52,7 +52,7 @@ Create("Summon!", function() --/ Inside the " " we have named this ability Summo
 end) --/ Still remember end)
 
 Create("Yare Yare Da..", function() --/ Inside the " " we have named this ability Yare Yare Da.., So if we were to type Yare Yare Da.. in-game the command would run utilizing function (1)
-    Play(8404024444,true) --/ This is how we play different music ID's utilizing function (8) if you have a boombox.
+    Play(8404024444,true) --/ This is how we play different music ID's utilizing function (8).
 end) --/ Still remember end)
 
 CreateTargetAbility("Print", function() --/ Inside the " " we have named this ability Print, So if we were to type Print and portion of someone's display or username in-game the command would run utilizing function (4)
