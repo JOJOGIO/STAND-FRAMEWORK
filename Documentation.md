@@ -9,7 +9,7 @@ OWNER --/ Owner instance, you can do.. Owner.Character
 STAND --/ Stand instance, you can do.. Stand.Character
 
 Stand.Action = "" --/ Action instance, You can the action to anything that you've created.
-Stand.Target = "" --/ Target Instance, It will automatically change if you're utilizing function (4)
+Stand.Target = "" --/ Target Instance, It will automatically change if you're utilizing function (4).
 
 1. Create('COMMANDNAMEHERE', function() --/ This will create an chat command / replace COMMANDNAME inside the brackets with your desired command name.
 2. CreateAction('LOOPNAMEHERE', function() --/ This will create an action this should be placed before (1).
@@ -52,7 +52,7 @@ Create("Summon!", function() --/ Inside the " " we have named this ability Summo
 end) --/ Still remember end)
 
 Create("Yare Yare Da..", function() --/ Inside the " " we have named this ability Yare Yare Da.., So if we were to type Yare Yare Da.. in-game the command would run utilizing function (1)
-Play(8404024444,true) --/ This is how we play different music id's utilizing function (8)
+Play(8404024444,true) --/ This is how we play different music id's utilizing function (8), If you have a boombox.
 end) --/ Still remember end)
 
 CreateTargetAbility("Print", function() --/ Inside the " " we have named this ability Print, So if we were to type Print and portion of someone's display or username in-game the command would run utilizing function (4)
