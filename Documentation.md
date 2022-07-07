@@ -99,6 +99,7 @@ VISUAL STUDIO FOR CODING :
 ・https://code.visualstudio.com/
 ```
 ・Each of the helpful links provided will provide you some information on how to use utilize the script to it's full effect & how to make it work correctly.
+
 ```
 FAQ :
 
