@@ -32,6 +32,7 @@ Stand.Target = "" --/ Target Instance, It will automatically change if you're ut
 19. Unequip() --/ This will unequip any currently equipped tools.
 ```
 ・All the above functions can & should be utilized on Stand-Creator abilities.
+
 ```
 DOCUMENTATION OF ABILITY CREATING :
 
@@ -109,8 +110,14 @@ The stand stand is getting kicked when executing?
 
 Reach bugging or other things bugging?
 ・Make to use any of the following exploits: KRNL, Synapse X, Fluxus.
+
+I don't have any clue what to do and how to make abilities?
+・It's recommended that you use pre-created templates if you have hard time understanding the script.
+
+I want something to be elaborated & explained in this documentation?
+・Let me know in a support ticket at : https://discord.com/invite/jojoW
 ```
-・If you have any other questions & concerns refer to support ticket at https://discord.com/invite/jojoW
+・If you have any other questions & concerns refer to support ticket at : https://discord.com/invite/jojoW
 
 ・It's truly been an incredible journey creating this project, I remember the first day when i was scared of even uploading this project, I've learned alot.. If you're curious about something or genuinely want something, You shouldn't be scared of it, Appreciate the opportunity and the chance of taking action on it, Approach & explore it because you'll never know where it leads you to.
 
