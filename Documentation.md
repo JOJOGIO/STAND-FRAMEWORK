@@ -81,4 +81,7 @@ The stand is damaging you?
 
 The stand stand is getting kicked when executing?
 ・Make sure to have a good ping under 200.
+
+Reach bugging or other things bugging?
+・Make to use any of the following exploits: KRNL, Synapse X, Fluxus.
 ```
