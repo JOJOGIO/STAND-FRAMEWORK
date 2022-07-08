@@ -5,6 +5,8 @@
 
 ・It'll take you a bit to understand & to use, I heavily advise you to read through the entire guide for the full understanding of the project.
 
+・This guide will provide you insight on how to create your own abilities.
+
 ```
 DOCUMENTATION OF THE FUNCTIONS :
 
